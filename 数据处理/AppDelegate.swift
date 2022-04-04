@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  数据处理
 //
-//  Created by 王鲲宇 on 2019/9/12.
-//  Copyright © 2019 王鲲宇. All rights reserved.
+//  Created by 李思聪 on 2019/9/12.
+//  Copyright © 2019 李思聪. All rights reserved.
 //
 
 import UIKit
